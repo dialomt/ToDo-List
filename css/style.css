@@ -1,5 +1,5 @@
 body {
-  background: #1a1a2e; 
+  background: #a9a9ee; 
   font-family: Arial, sans-serif;
 }
 
@@ -10,7 +10,7 @@ body {
 }
 
 .main-section {
-  background: #16213e;
+  background: #b07cb1;
   max-width: 500px;
   width: 90%;
   height: auto;
@@ -203,7 +203,7 @@ body {
 }
 
 .complete-to-do {
-  background-color: #001fba;
+  background-color: #7b3a01;
   border: none;
   color: white;
   padding: 5px 10px;
